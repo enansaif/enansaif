@@ -4,7 +4,7 @@ I'm Saife Shuhaib Md. Enan, a passionate Software Engineer with a focus on AI an
 
 ### 🚀 About Me
 
-- 💻 Currently working at BJIT Limited as a Software Engineer.
+- 💻 Currently working as a Software Engineer.
 - 🌐 Check out my portfolio at [saifeshuhaib.com](https://saifeshuhaib.com).
 - 🤖 Love working on AI projects, from recognition to image processing and reinforcement learning applications.
 - 📚 Graduated with a B.Sc. in Electronics and Telecommunication Engineering from CUET, Bangladesh.
