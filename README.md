@@ -25,6 +25,7 @@ Communication | Collaboration | Persistence | Adaptability | Attention to Detail
 ### 🌍 Connect with Me
 
 - 📧 Email: enansaifme33@gmail.com
+- 🌐 Portfolio: [saifeshuhaib.com](https://www.saifeshuhaib.com/)
 - 💼 LinkedIn: [linkedin.com/in/enansaif](https://linkedin.com/in/enansaif)
 
 Let's innovate and code the future together! 🚀
