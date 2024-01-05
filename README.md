@@ -11,11 +11,11 @@ I'm Saife Shuhaib Md. Enan, a passionate Software Engineer with a focus on AI an
 
 ### 🛠️ Tech Stack
 
-Python | JavaScript | HTML5 | CSS3 | BootStrap | NumPy | PyTorch | OpenCV | Django | and more!
+Python | JavaScript | HTML5 | CSS3 | BootStrap | NumPy | Pandas | PyTorch | OpenCV | Django | Flask
 
 ### 🔧 Projects
 
-- ♗ Chess Project: A Django-based web app where players can play against several AI bots.
+- ♕ Chess Project: A Django-based web app where players can play against several AI bots.
 - 🃏 LeetCode Flash Cards: A Django-based flashcard CRUD app for efficient problem-solving review.
 
 ### 📚 Soft Skills
