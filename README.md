@@ -15,8 +15,8 @@ Python | JavaScript | HTML5 | CSS3 | BootStrap | NumPy | Pandas | PyTorch | Open
 
 ### 🔧 Projects
 
-- ♕ Chess Project: A Django-based web app where players can play against several AI bots.
-- 🃏 LeetCode Flash Cards: A Django-based flashcard CRUD app for efficient problem-solving review.
+- ♕ [Chess Project](https://github.com/enansaif/chess_project): A Django-based web app where players can play against several AI bots.
+- 🃏 [LeetCode Flash Cards](https://github.com/enansaif/flashcards): A Django-based flashcard CRUD app for efficient problem-solving review.
 
 ### 📚 Soft Skills
 
