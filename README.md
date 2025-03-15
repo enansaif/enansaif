@@ -5,12 +5,8 @@ I'm Saife Shuhaib Md. Enan, a Software Engineer who loves building cool stuff.
 ### 🚀 About Me
 
 - 💻 Currently working as a Software Engineer.
-- 🤖 Love working on AI projects, especially deep learning.
+- 🤖 Love working on AI projects, especially deep learning and NLP.
 - 📚 Graduated with a B.Sc. degree from CUET, Bangladesh.
-
-### 🛠️ Tech Stack
-
-Python | JavaScript | Django | PyTorch | OpenCV
 
 ### 🔧 Projects
 
@@ -20,7 +16,7 @@ Python | JavaScript | Django | PyTorch | OpenCV
 ### 🌍 Connect with Me
 
 - 📧 Email: enansaifme33@gmail.com
-- 🌐 Portfolio: [saifeshuhaib.com](https://www.saifeshuhaib.com/)
+- 🌐 Portfolio: [saifeshuhaib.com](https://saifeshuhaib.com/)
 - 💼 LinkedIn: [linkedin.com/in/enansaif](https://linkedin.com/in/enansaif)
 
 Let's innovate and code the future together! 🚀
